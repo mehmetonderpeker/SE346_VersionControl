@@ -33,4 +33,7 @@ int main()
 	printf("Umay Hilde Yayla, 19243610007, ISE \n");
 
 	printf("Hussain Taha Alburki, 19243610051, ISE \n");
+
+	printf("Mehmet Önder Peker, 17243510057, CMPE \n");
+
 }
